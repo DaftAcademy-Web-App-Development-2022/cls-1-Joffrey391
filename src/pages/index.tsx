@@ -14,7 +14,7 @@ const Home: NextPageWithLayout = () => {
       </Head>
 
       <div>
-        <h1>DaftAcademy - WebApp 2022 - tu coś dodaje</h1>
+        <h1>DaftAcademy - WebApp 2022 - Jakiś tam tekst</h1>
       </div>
     </Fragment>
   );
